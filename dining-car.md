@@ -181,7 +181,7 @@ SQL
   * [sqlite-jdbc](http://search.maven.org/#search|ga|1|sqlite-jdbc):
     To use SQLite from Clojure. Requires
     [java.jdbc](http://search.maven.org/#search|ga|1|java.jdbc)
-    **{contrib}**. [Example](blob/master/examples/java.jdbc.md).
+    **{contrib}**. [Example](examples/java.jdbc.md).
 
 NoSQL
 -----
