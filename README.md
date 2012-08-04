@@ -8,7 +8,7 @@ It's purpose is to help answer these 2 questions:
  2. "What needs to go in my project.clj to use this library?"
 
 The Dining Car is one big document. View it
-[here](blob/master/dining-car.md).
+[here](https://github.com/uvtc/clojure-dining-car/blob/master/dining-car.md).
 
 It's categorized and task-oriented, and contains short descriptions of
 the libraries, possibly including mention of what they're most useful
@@ -18,10 +18,11 @@ that shouldn't be a problem. `:)`
 
 It's a *community-driven* resource, and editing is *easy* (like a
 wiki). Please contribute. Just log in to github, go to [the dining
-car](blob/master/dining-car.md) and click the "Edit" button at the top
-right of the content area. Github will automatically take care of
-version control details (forking & branching) and let you click a
-button to submit your changes.
+car](https://github.com/uvtc/clojure-dining-car/blob/master/dining-car.md),
+and click the "Edit" button at the top right of the content
+area. Github will automatically take care of version control details
+(forking & branching) and let you click a button to submit your
+changes.
 
 
 Editing Tips
@@ -37,16 +38,18 @@ of the library. Though, there's no link if the library is one of the
 the project name and lead right to it, for example:
 `http://search.maven.org/#search|ga|1|the.project.name`.)
 
-It's ok to provide links to example usage. Examples involving [core
-built-ins and/or the standard
-library](http://clojure.github.com/clojure/) belong at
-[ClojureDocs](http://clojuredocs.org/). Examples involving
-[contrib](http://clojure.github.com/) can for now go into [the Dining
-Car's examples directory](blob/master/examples) until such time as an
-updated ClojureDocs can adopt them. (Note you *might* also find
-contrib examples at their individual github project pages (linked to
-from the docs at clojure.github.com and also from the [confluence
-contrib page](http://dev.clojure.org/display/doc/Clojure+Contrib))).
+It may be useful to provide links to example usage of contrib and
+third-party libraries. Examples involving [core built-ins and/or the
+standard library](http://clojure.github.com/clojure/) belong at
+[ClojureDocs](http://clojuredocs.org/) and don't need to be linked
+to. Examples involving [contrib](http://clojure.github.com/) can for
+now go into [the Dining Car's examples
+directory](https://github.com/uvtc/clojure-dining-car/tree/master/examples)
+until such time as an updated ClojureDocs can adopt them. (Note you
+*might* also find contrib examples at their individual github project
+pages (linked to from the docs at clojure.github.com and also from the
+[confluence contrib
+page](http://dev.clojure.org/display/doc/Clojure+Contrib))).
 
 
 FAQ
@@ -112,6 +115,6 @@ FAQ
     alternative, go ahead. The Dining Car is intended to be useful for
     finding what you need to get your Clojure projects done.
 
-<center>\#\#\#</center>
+\#\#\#
 
 John Gabriele, 2012
