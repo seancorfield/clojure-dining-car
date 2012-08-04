@@ -1,6 +1,6 @@
-**Clojure Dining Car**
+# Clojure Dining Car
 
-*A Categorized and Annotated Directory of Clojure Libraries*
+A Categorized and Annotated Directory of Clojure Libraries.
 
 It's purpose is to help answer these 2 questions:
 
