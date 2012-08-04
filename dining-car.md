@@ -1,9 +1,9 @@
-**Clojure Dining Car**
+% Clojure Dining Car
 
-*A Categorized and Annotated Directory of Clojure Libraries*
+**A Categorized and Annotated Directory of Clojure Libraries**
 
-For more on what the Dining Car is, see [the
-README](https://github.com/uvtc/clojure-dining-car/blob/master/README.md).
+For more on what the Dining Car is, see its [github project
+page](https://github.com/uvtc/clojure-dining-car).
 
 This directory is manually curated by the Clojure community. Please
 endeavor to keep it fresh, consisting of libraries you'd recommend to
@@ -14,7 +14,7 @@ Herein:
   * Clojure core built-in functions are written without the
     leading "clojure.core/".
   * Standard library names all begin with "clojure.".
-  * Contrib libraries are marked "**{contrib}**" and link to Maven
+  * Contrib libraries are marked "{contrib}" and link to Maven
     Central.
   * Third-party libraries link to their canonical Clojars pages.
 
@@ -45,10 +45,10 @@ Numbers
   * See the *Numbers* section of the cheatsheet.
 
   * [math.combinatorics](http://search.maven.org/#search|ga|1|math.combinatorics)
-    **{contrib}**: common combinatorial functions
+    {contrib}: common combinatorial functions
 
   * [math.numeric-tower](http://search.maven.org/#search|ga|1|math.numeric-tower)
-    **{contrib}**: Math functions that deal intelligently with the various types in
+    {contrib}: Math functions that deal intelligently with the various types in
     Clojure's numeric tower, as well as math functions commonly found in Scheme
     implementations.
 
@@ -136,7 +136,7 @@ JSON
 ====
 
   * [data.json](http://search.maven.org/#search|ga|1|data.json)
-    **{contrib}**: JSON parser/generator to/from Clojure data
+    {contrib}: JSON parser/generator to/from Clojure data
     structures.
 
   * [cheshire](https://clojars.org/cheshire): Clojure JSON and JSON
@@ -181,7 +181,7 @@ SQL
   * [sqlite-jdbc](http://search.maven.org/#search|ga|1|sqlite-jdbc):
     To use SQLite from Clojure. Requires
     [java.jdbc](http://search.maven.org/#search|ga|1|java.jdbc)
-    **{contrib}**. [Example](examples/java.jdbc.md).
+    {contrib}. [Example](examples/java.jdbc.md).
 
 NoSQL
 -----

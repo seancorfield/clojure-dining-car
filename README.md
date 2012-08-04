@@ -7,8 +7,11 @@ It's purpose is to help answer these 2 questions:
  1. "What library should I use to do $x?", and then
  2. "What needs to go in my project.clj to use this library?"
 
-The Dining Car is one big document. View it
-[here](https://github.com/uvtc/clojure-dining-car/blob/master/dining-car.md).
+The Dining Car is one big document (well, not so big yet). [View it
+rendered with a table of
+contents](http://unexpected-vortices.com/clojure/dining-car.html), or
+else [right
+here](https://github.com/uvtc/clojure-dining-car/blob/master/dining-car.md).
 
 It's categorized and task-oriented, and contains short descriptions of
 the libraries, possibly including mention of what they're most useful
