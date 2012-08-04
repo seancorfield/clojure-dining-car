@@ -3,7 +3,7 @@
 *A Categorized and Annotated Directory of Clojure Libraries*
 
 For more on what the Dining Car is, see [the
-README](https://github.com/clojure-dining-car/dining-car/blob/master/README.md).
+README](https://github.com/uvtc/clojure-dining-car/blob/master/README.md).
 
 This directory is manually curated by the Clojure community. Please
 endeavor to keep it fresh, consisting of libraries you'd recommend to

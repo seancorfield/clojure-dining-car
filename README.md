@@ -12,9 +12,9 @@ The Dining Car is one big document. View it
 
 It's categorized and task-oriented, and contains short descriptions of
 the libraries, possibly including mention of what they're most useful
-for. Sometimes links to example usage. It's not comprehensive. It's
-necessarily just a bit opinionated, but we all agree to be nice, so
-that shouldn't be a problem. `:)`
+for. Sometimes with links to example usage. It's not
+comprehensive. It's necessarily just a bit opinionated, but we all
+agree to be nice, so that shouldn't be a problem. `:)`
 
 It's a *community-driven* resource, and editing is *easy* (like a
 wiki). Please contribute. Just log in to github, go to [the dining
@@ -61,12 +61,12 @@ FAQ
 
     My understanding is that the author of the toolbox has plans to
     make it more sophisticated. The Dining Car takes the opposite
-    approach (it's just a .md file). Also, DC includes short
+    approach (it's just a .md file). Also, the DC includes short
     descriptions and provides links to Clojars pages (rather than
     github project pages).
 
-  * **"Why does DC provide links to Clojars pages rather than
-    github project pages?"**
+  * **"Why does the Dining Car provide links to Clojars pages rather
+    than github project pages?"**
 
     Because the first thing a user needs to know after selecting a
     library is what should go into their project.clj file in order to
@@ -108,7 +108,7 @@ FAQ
     Currently, only Clojure-JVM. Perhaps in the future it will expand
     to serve other implementations.
 
-  * **"Should I list pure Java libraries in the DC?"**
+  * **"Should I list pure Java libraries in the Dining Car?"**
 
     If they're available via [Maven
     Central](http://search.maven.org/), and if there's no pure Clojure
